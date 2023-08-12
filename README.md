@@ -1,0 +1,1 @@
+# embedded_linux_diploma_team_c1
